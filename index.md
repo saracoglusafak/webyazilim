@@ -25,4 +25,4 @@ saygılarımla **Şafak Saraçoğlu.**
 
 ### Destek & İletişim
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Doğru web tasarım](https://dogruwebtasarim.com/) yada safaksaracoglu2012@gmail.com
