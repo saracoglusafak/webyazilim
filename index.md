@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Merhaba Ben Şafak Saraçoğlu
 
-You can use the [editor on GitHub](https://github.com/saracoglusafak/webyazilim/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Merhaba ben Şafak Saraçoğlu 1986 İstanbul doğumluyum. Aslen Giresun'luyum. 2009 yılından bu yana profesyonel olarak web tasarım, web yazılım, seo ve grafik tasarım hizmetleri vermekteyim.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Web tasarım ve Grafik tasarım üzerine ismek ve halk eğitim merkezi
+kurslarını başarıyla bitirerek sertifika almaya hak kazandım. Ayrıca Google dijital atölye "Online Pazarlama Temel Eğitimi" kurslarını tamamlayarak sertifikamı aldım.
 
-### Markdown
+Eğitime ve kişisel gelişime verdiğim önemden dolayı bir çok kurs bitirdim ve ihtiyaç duyduğum eğitimleri almaya devam ediyorum.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Başta mesleğimle ilgili olmak üzere tüm yenilikleri takip edip, bana ve mesleğime faydası olanları mutlaka öğrenmeye çalışıyorum. Genelde pes etmeyen bir yapıya sahip olduğum için yaptığım işin mutlaka sonunu getiririm.
 
-```markdown
-Syntax highlighted code block
+Ömür boyu öğrenmenin devam etmesi gerektiğine inanan birisi olarak devamlı bir şeyler öğreniyorum ve çok iyi bildiğim konuları sosyal ağ ve video kanalları sayesinde diğer insanlara öğretmeye gayret ediyorum.
 
-# Header 1
-## Header 2
-### Header 3
+## İyi Bildiklerim;
 
-- Bulleted
-- List
+PHP, CODEIGNITER, HTML, CSS, JQUERY, BOOTSTRAP (3 & 4), WORDPRESS
 
-1. Numbered
-2. List
+## Orta Seviye Bildiklerim;
 
-**Bold** and _Italic_ and `Code` text
+LARAVEL, NODE.JS, JAVASCRIPT, HTML5, CSS3
 
-[Link](url) and ![Image](src)
-```
+"Öğretemiyorsan, bilmiyorsun. Öğrenemiyorlarsa, iyi anlatamamışsın demektir."
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+saygılarımla **Şafak Saraçoğlu.**
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saracoglusafak/webyazilim/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+### Destek & İletişim
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
