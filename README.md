@@ -13,11 +13,11 @@ Başta mesleğimle ilgili olmak üzere tüm yenilikleri takip edip, bana ve mesl
 
 ## İyi Bildiklerim;
 
-PHP, CODEIGNITER, HTML, CSS, JQUERY, BOOTSTRAP (3 & 4), WORDPRESS
+PHP, CODEIGNITER (3-4), LARAVEL 8, HTML, CSS, JQUERY, BOOTSTRAP 4, WORDPRESS
 
 ## Orta Seviye Bildiklerim;
 
-LARAVEL, NODE.JS, JAVASCRIPT, HTML5, CSS3
+NODE.JS, JAVASCRIPT, HTML5, CSS3
 
 "Öğretemiyorsan, bilmiyorsun. Öğrenemiyorlarsa, iyi anlatamamışsın demektir."
 
